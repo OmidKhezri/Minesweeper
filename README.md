@@ -1,0 +1,3 @@
+# Minesweeper
+
+AI project
